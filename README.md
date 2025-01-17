@@ -1,2 +1,2 @@
-# Matlab_Task_automatization
-Task automatization with Matlab
+# Matlab_Task_Automation
+Task automation with Matlab
